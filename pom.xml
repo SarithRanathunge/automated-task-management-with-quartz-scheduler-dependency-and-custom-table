@@ -102,6 +102,12 @@
 			<artifactId>spring-boot-starter-quartz</artifactId>
 			<version>4.0.1</version>
 		</dependency>
+
+		<dependency>
+			<groupId>me.paulschwarz</groupId>
+			<artifactId>spring-dotenv</artifactId>
+			<version>4.0.0</version>   <!-- check latest version -->
+		</dependency>
 	</dependencies>
 
 	<build>
